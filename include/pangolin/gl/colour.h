@@ -29,6 +29,7 @@
 #define PANGOLIN_COLOUR
 
 #include <stdexcept>
+#include <math.h>
 
 namespace pangolin
 {
